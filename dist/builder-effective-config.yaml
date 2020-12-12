@@ -1,0 +1,7 @@
+directories:
+  output: dist
+  buildResources: build
+appId: test.321
+mac:
+  category: your.app.category.type
+electronVersion: 9.0.0
